@@ -1,7 +1,7 @@
 
 # 🚀 Career Compass: LinkedIn's Qualification Predictor & Tailored Strategic Growth Insights 
 
-## Final Project Data Collection Lab
+## Final Project Data Collection Lab (Winter 2023/24 Semester)
 
 Submitted by:
 - Hadar Sugerman
@@ -71,4 +71,5 @@ Use wisely and enjoy the insights.
 ----------
 
 We hope this tool helps you in your career,
+
 Made with ❤️ and 🍕
