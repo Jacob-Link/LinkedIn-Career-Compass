@@ -15,13 +15,13 @@ We set out on creating a tool for LinkedIn users which accurately present the us
 ![poster png](poster_png.png)
 
 ## 📦 Files Uploaded 
-`prediction_engine.ipynb`: Feature extraction and model creation. 
-`big_data_insights_engine.ipynb`:  Statistical insights extraction.
-`scrape_engine.py`:  Utilizing Bright Datas scraping infrastructure.
-`positions_above_300.csv`:  Positions extracted from 'Peoples' data used as the positions we scraped from Indeed.
-`position_salary.json`:  scraped data regarding salary per experience.
-`min_max_salary.json`:  scraped data regarding salary range.
-`scraped_salary_data.csv`:  all raw scraped data combined.
+`prediction_engine.ipynb`: Feature extraction and model creation.-
+`big_data_insights_engine.ipynb`:  Statistical insights extraction.-
+`scrape_engine.py`:  Utilizing Bright Datas scraping infrastructure.-
+`positions_above_300.csv`:  Positions extracted from 'Peoples' data used as the positions we scraped from Indeed.-
+`position_salary.json`:  scraped data regarding salary per experience.-
+`min_max_salary.json`:  scraped data regarding salary range.-
+`scraped_salary_data.csv`:  all raw scraped data combined.-
 
 **`run_qualification_prediction_app.ipynb`:  final app notebook**
 
