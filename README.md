@@ -21,6 +21,9 @@ We set out on creating a tool for LinkedIn users which accurately present the us
 
 `scrape_engine.py`:  Utilizing Bright Datas scraping infrastructure.
 
+**`run_qualification_prediction_app.ipynb`: final app notebook**
+
+📁 **data**:
 `positions_above_300.csv`:  Positions extracted from 'Peoples' data used as the positions we scraped from Indeed.
 
 `position_salary.json`:  scraped data regarding salary per experience.
@@ -29,9 +32,7 @@ We set out on creating a tool for LinkedIn users which accurately present the us
 
 `scraped_salary_data.csv`:  all raw scraped data combined.
 
-
-
-**`run_qualification_prediction_app.ipynb`:  final app notebook**
+📁 **images**: images used throughout the ReadMe file
 
 ## 🏃 How To Run
 Follow these steps to get the application running: 
