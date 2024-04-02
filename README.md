@@ -24,6 +24,7 @@ We set out on creating a tool for LinkedIn users which accurately present the us
 **`run_qualification_prediction_app.ipynb`: final app notebook**
 
 📁 **data**:
+
 `positions_above_300.csv`:  Positions extracted from 'Peoples' data used as the positions we scraped from Indeed.
 
 `position_salary.json`:  scraped data regarding salary per experience.
