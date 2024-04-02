@@ -52,7 +52,7 @@ Follow these steps to get the application running:
 
 ![widgets png](images/widgets.png)
 
-Next, navigate to the final cell using the content side bar
+Next, navigate to the final cell using the content side bar 
 
 ![content table png](images/content_table.png)
 
