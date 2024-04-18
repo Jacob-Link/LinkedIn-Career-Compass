@@ -33,6 +33,9 @@ We set out on creating a tool for LinkedIn users which accurately present the us
 
 `scraped_salary_data.csv`:  all raw scraped data combined.
 
+> 🔔 **Important Note**:
+> To comply with BrightData policy we shared a link to Drive in the internal google sheet shared on moodle.
+
 📁 **images**: images used throughout the ReadMe file
 
 ## 🏃 How To Run
