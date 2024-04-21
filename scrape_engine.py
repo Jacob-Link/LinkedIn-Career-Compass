@@ -8,7 +8,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import urllib.parse  # For URL encoding
 import json
 
-SBR_WEBDRIVER = 'https://brd-customer-hl_80709a30-zone-scraping_browser1:gex042afpu8u@brd.superproxy.io:9515'
+SBR_WEBDRIVER = 'insert bright data unique private sbr webdrive'
 position_without_salary_info = []
 
 import csv
